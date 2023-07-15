@@ -1,2 +1,3 @@
-# demo-repo
-Demo repo for Github
+# Demo
+
+Demo repo for demonstration of repo!! - Kamala Harris style!! XD
